@@ -39,7 +39,7 @@ body {
 	cursor: pointer;
 	height: 100%;
 	width: 25%;
-	background-color: rgb(0,0,0);
+	background-color: rgb(0,150,150);
 }
 .keyboardholder {
 	display: block;
@@ -67,9 +67,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 99%;
-}
-.click {
-	cursor: pointer;
 }
 .center-content {
 	display: flex;
